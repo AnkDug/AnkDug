@@ -2,6 +2,13 @@
 
 <h3 align="center">A passionate data professional based in Canada!</h3>
 
+<h4 align="center"> 
+  < img src= "https://readme-typing-svg.herokuapp.com/?
+    font=Righteous&size=28&center=true&vCenter=true&width=300&height=25&duration=400&lines=Welcome+to+my+Github" />
+</h4>
+
+
+
 <blink style="color: blue;">Welcome to my GitHub!</blink> 
 
 **I am Data Engineer and Analyst who enjoys in buliding bridges from Data to Decision** 
